@@ -724,6 +724,14 @@ a {
   text-align: center;
 }
 
+.investimento__preco-parcela-prefix {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--text-dark-secondary);
+  margin-bottom: 2px;
+}
+
 .investimento__preco-valor {
   display: block;
   font-family: var(--font-display);
@@ -732,11 +740,12 @@ a {
   color: var(--text-dark);
 }
 
-.investimento__preco-parcelamento {
+.investimento__preco-avista {
   display: block;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-dark-secondary);
-  margin-top: 4px;
+  margin-top: 6px;
+  opacity: 0.7;
 }
 
 .investimento__argumento {
