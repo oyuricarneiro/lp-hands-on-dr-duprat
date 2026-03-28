@@ -1,0 +1,51 @@
+# Netlify local
+.netlify
+
+# Sistema
+.DS_Store
+
+# Arquivos de processo (ficam apenas local)
+briefing.md
+copy.md
+layout.md
+persona.md
+pesquisa-mercado.md
+tom-de-voz.md
+
+# Referências (apenas local)
+referencias/
+
+# Pastas de fotos não usadas
+images/fotos/Arnold Conference/
+images/fotos/Cogniflow - Fotos Evento/
+images/fotos/Fotos Caffeine/
+images/fotos/Fotos João Menna/
+images/fotos/Fotos LP Referencia/
+images/fotos/Fotos Retiro - Outubro 2023/
+images/fotos/Rodrigo-Duprat-ESSENSES-2025-12_.webp
+
+# Fotos ESSENSES não usadas na LP
+images/fotos/Rodrigo Duprat ESSENSES 2025 01_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 02_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 03_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 04_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 05_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 06_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 07_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 08_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 09_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 10_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 11_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 13_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 14_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 16_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 17_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 18_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 19_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 21_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 23_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 24_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 25_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 26_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 27_.jpg
+images/fotos/Rodrigo Duprat ESSENSES 2025 28_.jpg
