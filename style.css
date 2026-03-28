@@ -122,13 +122,17 @@ a {
 
 .btn--dark {
   color: var(--text-dark);
-  border-color: rgba(26, 26, 26, 0.2);
+  border-color: rgba(26, 26, 26, 0.15);
+  background: var(--bg-dark);
+  color: var(--text-primary);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
 }
 
 .btn--dark:hover {
   background: var(--accent-gold);
   border-color: var(--accent-gold);
   color: var(--bg-dark);
+  box-shadow: 0 6px 24px rgba(200, 168, 110, 0.25);
 }
 
 .btn--full {
