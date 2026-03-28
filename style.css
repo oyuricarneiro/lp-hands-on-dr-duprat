@@ -726,10 +726,10 @@ a {
 
 .investimento__preco-parcela-prefix {
   display: block;
-  font-size: 0.9rem;
-  font-weight: 400;
-  color: var(--text-dark-secondary);
-  margin-bottom: 2px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-dark);
+  margin-bottom: 4px;
 }
 
 .investimento__preco-valor {
@@ -742,10 +742,10 @@ a {
 
 .investimento__preco-avista {
   display: block;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
+  font-weight: 400;
   color: var(--text-dark-secondary);
-  margin-top: 6px;
-  opacity: 0.7;
+  margin-top: 8px;
 }
 
 .investimento__argumento {
